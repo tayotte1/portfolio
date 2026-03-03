@@ -196,11 +196,9 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
-  background: url("../assets/svg/soap.svg");
-  background-repeat: no-repeat;
-  background-position: center right;
-  background-size: auto 90%;
 }
+
+
 
 .banner .banner--content .name {
   text-transform: uppercase;
