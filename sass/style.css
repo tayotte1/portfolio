@@ -97,15 +97,8 @@ img {
 }
 
 .site-header .nav-logo a img {
-  max-width: 200px;
-  height: auto;
-}
-
-@media screen and (min-width: 768px) {
-  .site-header .nav-logo a img {
-    max-width: 314px;
-    height: auto;
-  }
+  max-height: 60px;
+  width: auto;
 }
 
 .site-header .nav-links {
@@ -757,6 +750,11 @@ blockquote p::after {
 .site-footer .site-footer--content .footer-left {
   -ms-flex-preferred-size: 55%;
       flex-basis: 55%;
+}
+
+.site-footer .site-footer--content .footer-left img {
+  max-height: 60px;
+  width: auto;
 }
 
 .site-footer .site-footer--content .footer-left p {
