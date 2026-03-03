@@ -199,7 +199,7 @@ img {
   background: url("../assets/svg/soap.svg");
   background-repeat: no-repeat;
   background-position: top right;
-  background-size: contain;
+  background-size: 20%;
 }
 
 .banner .banner--content .name {
